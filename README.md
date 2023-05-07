@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio de prueba para el prep course de henry
+Este proyecto es una prueba para modificar y cambiar desde mi pc
